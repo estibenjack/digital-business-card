@@ -44,14 +44,14 @@ body {
 .info--information > .name {
   color: white;
   font-size: 25px;
-  margin-top: 20px;
+  margin-top: 12px;
   font-weight: 700;
 }
 
 .info--information > .role {
   color: #f3bf99;
   font-size: 0.8rem;
-  margin-top: 6px;
+  margin-top: 3px;
   font-weight: 400;
 }
 

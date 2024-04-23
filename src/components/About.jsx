@@ -14,8 +14,7 @@ export default function About() {
                 <h2 className="section-title">Interests</h2>
                 <p className="section-content">
                     When I&apos;m not learning to code, you&apos;ll most likely find me spending time
-                     with my dogs, listening to Spanish or Brazilian bops, or making the best iced vanilla
-                     oat latte you&apos;ve ever tasted.
+                     with my dogs or listening to Spanish and Brazilian bops.
                 </p>
             </div>
         </div>
