@@ -12,7 +12,7 @@
   -Interests
   -Footer (social icons)
 
-### Screenshot
+### Screenshot:
 
 ![Screenshot 2024-04-23 at 22 03 37](https://github.com/estibenjack/digital-business-card/assets/156148848/6ee35bf4-e4c1-4f22-a187-fa1db1ffc725)
 
